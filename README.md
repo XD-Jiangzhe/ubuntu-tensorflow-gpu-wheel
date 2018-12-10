@@ -7,4 +7,4 @@
 
 3. 此时的我巨绝望，想了想，要不我自己买一块1060装上自己跑，然后我拆开自己的台式，准备看下主板接口买一块1060插在上面自己跑的时候，又发现了电源只有280w。。。是的你没看错，在这个最低450w电源的年代，竟然还有280w的电源，怕不是从博物馆偷来的吧。。。插块显卡还要换电源，此时的我绝望max
 
-4. 最后，我也不知道从哪里找到了这个网站，https://www.python36.com/install-tensorflow141-gpu/ 然后我照着这个装了bazel,然后编译了不少时间，自己编译了一个wheel，环境：cuda 9.1 cudnn：7.0.5 py 3.5 不用谢我，call me uncle lei
+4. 最后，我也不知道从哪里找到了这个网站，https://www.python36.com/install-tensorflow141-gpu/ 然后我照着这个装了bazel,然后编译了不少时间，自己编译了一个wheel，环境：cuda 9.1 cudnn：7.0.5 py 3.5 不用谢我，call me uncle lei !
